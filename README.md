@@ -1,7 +1,8 @@
 # 🏅 Olympic Games Historical Analysis (1900-2000) - Power BI Project
 
 ## 📝 Project Overview
-This Power BI dashboard provides a comprehensive historical analysis of the Olympic Games over a century (1900–2000). The project focuses on visualizing medal trends, demographic distributions, and sports popularity to uncover deep insights into how the games have evolved over time.
+This Power BI dashboard provides a comprehensive historical analysis of the Olympic Games over a century (1900–2000). The project focuses on visualizing medal trends, demographic distributions, and sports popularity to uncover deep insights into how the games have evolved over time.<img width="659" height="366" alt="Screenshot 2026-06-15 003008" src="https://github.com/user-attachments/assets/dd17daf6-4aed-435c-a31c-b59d59b167e7" />
+
 
 ---
 
