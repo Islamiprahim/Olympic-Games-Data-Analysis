@@ -3,14 +3,6 @@
 ## 📝 Project Overview
 This Power BI dashboard provides a comprehensive historical analysis of the Olympic Games over a century (1900–2000). The project focuses on visualizing medal trends, demographic distributions, and sports popularity to uncover deep insights into how the games have evolved over time.
 
-🔗 **[Live Interactive Report Link]**(ضع هنا رابط الـ Publish to Web السحري الخاص بمشروع الأولمبياد إذا استخرجته)
-
----
-
-## 📸 Dashboard Screenshots
-### 1. Overview & Trends
-![Overview and Trends](ضع هنا رابط السكرين شوت النظيفة اللي قمت بقصها للمشروع)
-
 ---
 
 ## 💡 Key Insights Delivered
